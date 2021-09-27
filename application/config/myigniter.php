@@ -89,7 +89,7 @@ $config['timezone'] = 'Asia/Kolkata';
 # red-light
 # black
 # black-light
-$config['skin'] = 'black'; // selected skin
+$config['skin'] = 'blue'; // selected skin
 
 $config['google_recaptcha'] = [
     'site_key' => '6LeTSh8UAAAAAOXygATUlkTAFwdJuxecYZ8WzrwY',

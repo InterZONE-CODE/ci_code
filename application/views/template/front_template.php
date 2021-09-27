@@ -34,7 +34,7 @@
             <nav class="navbar navbar-static-top" role="navigation">
                 <div class="container">
                     <div class="navbar-header">
-                        <a href="<?php echo site_url() ?>" class="navbar-brand">myIgniter</a>
+                        <a href="<?php echo site_url() ?>" class="navbar-brand">InterZONE CODE</a>
                         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
                             <i class="fa fa-bars"></i>
                         </button>

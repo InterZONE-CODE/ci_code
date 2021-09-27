@@ -85,7 +85,7 @@
                                 </li>
                             </ul>
                         </li>
-                        <li class="dropdown">
+                       <!-- <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                                 <span class="flag-icon flag-icon-<?php echo $this->session->userdata('lang_code') ? $this->session->userdata('lang_code') : 'us' ?>"></span> <?php echo lang('language') ?>
                             </a>
@@ -96,7 +96,7 @@
                                 <li><a href="<?php echo site_url('myigniter/sys_lang/spanish'); ?>"><span class="flag-icon flag-icon-eg"></span> Spanish</a></li>
                                 <li><a href="<?php echo site_url('myigniter/sys_lang/english'); ?>"><span class="flag-icon flag-icon-us"></span> US English</a></li>
                             </ul>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </nav>

@@ -2,9 +2,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">		
-				<img src="<?php echo base_url('assets/img/logo/myIgniter.png') ?>" class="logo-header" alt="myIgniter logo">				
+				<img src="<?php echo base_url('assets/img/logo/izlogo.png') ?>" class="logo-header" alt="myIgniter logo">				
 				<div class="header-text">
-					<h1 class="header-title"><b>my</b>Igniter</h1>
+					<h1 class="header-title"><b>IZ</b>CRUD PANEL</h1>
 					<p><?php echo lang('amazing_crud') ?></p>
 					<a href="http://codecanyon.net/item/-myigniter-admin-crud-and-page-generator/16421969" class="btn btn-success btn-flat"><i class="fa fa-shopping-cart"></i> <?php echo lang('buy') ?></a>
 					<a href="http://myigniter.kotaxdev.com" class="btn btn-primary btn-flat"><i class="fa fa-desktop"></i> <?php echo lang('try') ?></a>
